@@ -1,0 +1,30 @@
+body {
+    background-color: rgba(255, 255, 255, 0.7);
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgGcDBqtRXyzzUErv9ufshDCgl4_ulNaz4jg&usqp=CAU");
+    background-size:cover;
+    background-blend-mode:color-dodge;
+  }
+  
+form{
+    align-items: center;
+    text-align: center;
+    font-style:initial;
+    text-decoration-color: bisque;
+    text-rendering: optimizeSpeed;
+    gap: 2%;
+}
+#submitForm{
+    outline-style:initial;
+    border-color: black;
+    gap: 60%;
+}
+#result{
+    text-align: center;
+    text-decoration-style: solid;
+    padding-top: 100px;
+    font-display: 10px;
+    font-style:oblique;
+    font-weight: bolder;
+   font-size: 45px; 
+   
+}
